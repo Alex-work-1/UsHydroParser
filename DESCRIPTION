@@ -1,0 +1,15 @@
+Package: UsHydroParser
+Type: Package
+Title: Parse Hydrologycal US Daily Data In a MOPEX Format By Its ID
+Version: 0.1.0
+Author: Alex
+Maintainer: Alex <some.mail@some.domain.net>
+Description: This function parses hydrology US daily data in a MOPEX format by its ID.
+    The data is taken from the link https://hydrology.nws.noaa.gov/pub/gcip/mopex/US_Data/Us_438_Daily/ .
+License: GPL (>= 3)
+Encoding: UTF-8
+RoxygenNote: 7.2.1
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2022-11-04 10:39:15 UTC; tool
